@@ -19,16 +19,24 @@ body {
 }
 
 .profile-pic {
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
-  object-fit: cover;
+  width: 84px;          /* Increased size for better resolution */
+  height: 84px;
+  border-radius: 50%;    /* Circular */
+  object-fit: cover;     /* Crop nicely */
   border: 2px solid #555;
+  image-rendering: auto; /* Ensure smooth rendering */
+  -webkit-optimize-contrast: true; /* Safari */
+  -webkit-font-smoothing: antialiased; /* text smoothing, but can help */
+  image-rendering: -webkit-optimize-contrast; /* Chrome */
+  image-rendering: crisp-edges; /* Can help on pixel-art, try toggle */
 }
 
 .logo {
-  width: 80px;
-  height: auto;
+  width: 80px;           /* You can increase this if needed */
+  height: 80px;          /* Make height equal to width for perfect circle */
+  border-radius: 50%;    /* Circular */
+  object-fit: cover;     /* Crop if needed */
+  border: 2px solid transparent; /* Optional: add border or remove */
 }
 
 .content {
