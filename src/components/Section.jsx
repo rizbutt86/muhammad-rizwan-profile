@@ -14,15 +14,15 @@ function Section() {
     },
     {
       title: "Governance & Metadata",
-      content: "Collibra + Confluence reduced time-to-insight by 45–65%. Live asset cataloging in place."
+      content: "Collibra + Confluence (5,000+ assets) and wiki knowledge base, reduced time-to-insight by 45–65%. Live asset cataloging in place."
     },
     {
       title: "Privacy & Access Control",
-      content: "Built secure, privacy-by-design self-service platform with tokenization & RBAC—like TELUS models."
+      content: "Built secure, privacy-by-design self-service platform with tokenization & RBAC."
     },
     {
       title: "360 API & Insights",
-      content: "Launched Networth for customer/network 360 view—churn prediction, marketing insights, H3-based geodata."
+      content: "Launched Networth for customer/network 360 view—churn prediction, marketing insights, H3-based geodata, 500k calls/day."
     },
     {
       title: "Cloud & ML Ops",
