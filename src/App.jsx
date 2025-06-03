@@ -23,14 +23,13 @@ export default function App() {
 
       {/* ——— Main ——— */}
       <main className="main">
-        <card
-		<section className="text-xl leading-relaxed space-y-4">
+        <section className="text-xl leading-relaxed space-y-4">
           <p>
             I believe in the transformative power of technology to connect people and drive positive change. My journey began as a Graduate Trainee at TELUS, where I was inspired by visionary leadership that prioritized innovation and collaboration. This experience ignited my passion for leading teams that harness technology to make a meaningful impact.
 			Throughout my career, I've focused on building inclusive, high-performing teams that deliver innovative solutions aligned with strategic goals. My leadership style is rooted in empathy, continuous learning, and a commitment to excellence.
+			
           </p>
 		 </section>
-		/>
 		<Card
           heading="Executive Highlights"
           bullets={[
