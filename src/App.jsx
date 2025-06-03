@@ -27,7 +27,7 @@ export default function App() {
           <p>
             I believe in the transformative power of technology to connect people and drive positive change. My journey began as a Graduate Trainee at TELUS, where I was inspired by visionary leadership that prioritized innovation and collaboration. This experience ignited my passion for leading teams that harness technology to make a meaningful impact.
 			Throughout my career, I've focused on building inclusive, high-performing teams that deliver innovative solutions aligned with strategic goals. My leadership style is rooted in empathy, continuous learning, and a commitment to excellence.
-			
+			      
           </p>
 		 </section>
 		<Card
@@ -51,7 +51,7 @@ export default function App() {
           bullets={[
             'Founded Rogers Data Engineering Community of Practice (120+ members).',
             'Provide mentorship to emerging talent in data science, analytics, and development across the organization.',
-            'Top Performing Manager (2021-24) & Ted Rogers Award (2023).'
+            'Top Performing Manager (2021-24) & Ted Rogers Award (2019,2022,2023).'
           ]}
         />
 
