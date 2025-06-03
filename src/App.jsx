@@ -28,14 +28,14 @@ export default function App() {
           bullets={[
             'Scaled enterprise data platforms to 1 500+ users; underpinning > $2 B CAPEX/OPEX decisions.',
             'Cut cloud OPEX from CAD 9 M → 5 M annually via FinOps chargeback & smart workload placement.',
-            'Led a core team of 12 with oversight of 50+ matrixed and vendor resources; established scalable hiring and onboarding processes to support sustained team expansion.'
+            'Successfully built and led 4 cross-functional teams, streamlining the hiring pipeline for each specific stream to attract top talent'
           ]}
         />
         <Card
           heading="Signature Platforms"
           bullets={[
             'PlanAid – 20 B records / month forecasting engine (35 % faster planning; enabled 5G Home rollout to 100 K subs in 2 quarters).',
-            'Netstat – real-time network monitor (1.2 M API calls / day, 99.95 % SLA); mean-time-to-detect improved 42 %.',
+            'Netstat – real-time network monitor (1.2 M API calls / day, 99.98 % SLA); mean-time-to-detect improved 42 %.',
             'NetWorth Customer-360 API – 500 K requests / day, 99.9 % uptime; churn model AUC 0.88.'
           ]}
         />
